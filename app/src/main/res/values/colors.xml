@@ -3,4 +3,8 @@
     <color name="colorPrimary">#6200EE</color>
     <color name="colorPrimaryDark">#3700B3</color>
     <color name="colorAccent">#03DAC5</color>
+    <color name="add_a_drop_btn_pressed_color">#05FFCA</color>
+    <color name="add_a_drop_btn_stoke_color">#B691FF</color>
+    <color name="add_a_drop_text_color_pressed">#241543</color>
+    <color name="add_a_drop_textcolor">#FFF</color>
 </resources>

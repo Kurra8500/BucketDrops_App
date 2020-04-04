@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:tools="http://schemas.android.com/tools" xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:color="@color/add_a_drop_text_color_pressed" android:state_pressed="true"/>
+    <item android:color="@color/add_a_drop_textcolor" />
+
+</selector>

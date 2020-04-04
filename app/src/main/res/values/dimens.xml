@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="iv_logo_width_dimens">300dp</dimen>
+    <dimen name="iv_logo_height_dimens">350dp</dimen>
+    <dimen name="iv_logo_margin_top_dimens">100dp</dimen>
+    <dimen name="tv_add_a_drop_text_size">32sp</dimen>
+    <dimen name="tv_addadrop_margin_top">50dp</dimen>
+    <dimen name="tv_add_a_drop_padding_left">60dp</dimen>
+    <dimen name="tv_add_a_drop_padding_right">60dp</dimen>
+    <dimen name="tv_add_a_drop_padding_bottom">8dp</dimen>
+    <dimen name="tv_add_a_drop_padding_top">8dp</dimen>
+    <dimen name="add_a_drop_btn_corner">2dp</dimen>
+</resources>

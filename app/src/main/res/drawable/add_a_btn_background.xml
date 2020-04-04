@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true">
+        <shape>
+            <solid android:color="@color/add_a_drop_btn_pressed_color" />
+            <corners android:radius="@dimen/add_a_drop_btn_corner"/>
+
+        </shape>
+    </item>
+
+<item >
+    <shape>
+        <stroke android:width="1dp" android:color="@color/add_a_drop_btn_stoke_color" />
+        <solid android:color="@android:color/transparent" />
+        <corners android:radius="@dimen/add_a_drop_btn_corner"/>
+    </shape>
+</item>
+</selector>
